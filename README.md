@@ -3,6 +3,11 @@ Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmas�
 
 #Oyunun Geçiştirme Süreci 
 
+![oyun](https://user-images.githubusercontent.com/41707639/55347266-0fac1a00-54bd-11e9-8e1f-331866ccef5c.PNG)
+![kazan](https://user-images.githubusercontent.com/41707639/55347281-19ce1880-54bd-11e9-8d2e-c39afd7fc279.PNG)
+![oyun1](https://user-images.githubusercontent.com/41707639/55347283-19ce1880-54bd-11e9-9f86-4058fd52b6ba.PNG)
+
+
 ![1](https://user-images.githubusercontent.com/41707639/55346851-1be3a780-54bc-11e9-997c-564d233ea90b.PNG)
 ![2](https://user-images.githubusercontent.com/41707639/55346853-1be3a780-54bc-11e9-8aae-56d1749a0de6.PNG)
 ![3](https://user-images.githubusercontent.com/41707639/55346854-1be3a780-54bc-11e9-962c-07b3a4efe37c.PNG)
