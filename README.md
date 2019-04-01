@@ -1,5 +1,6 @@
 ## Unity de-Arayüzle Sayi Tahmin Oyunu
 Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmasını içeren arayüzlü bir sayı tahmin oyunu...
+
 Not:Amatör bir Yazılımcıyım...
 
 #Oyunun Geçiştirme Süreci 
