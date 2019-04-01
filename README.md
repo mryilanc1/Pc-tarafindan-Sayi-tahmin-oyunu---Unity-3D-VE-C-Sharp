@@ -3,6 +3,15 @@ Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmas�
 
 #Oyunun Geçiştirme Süreci 
 
+![1](https://user-images.githubusercontent.com/41707639/55346851-1be3a780-54bc-11e9-997c-564d233ea90b.PNG)
+![2](https://user-images.githubusercontent.com/41707639/55346853-1be3a780-54bc-11e9-8aae-56d1749a0de6.PNG)
+![3](https://user-images.githubusercontent.com/41707639/55346854-1be3a780-54bc-11e9-962c-07b3a4efe37c.PNG)
+![4](https://user-images.githubusercontent.com/41707639/55346855-1c7c3e00-54bc-11e9-9d97-c0308f9b9071.PNG)
+![5](https://user-images.githubusercontent.com/41707639/55346856-1c7c3e00-54bc-11e9-80fe-69d4339b9f37.PNG)
+![6](https://user-images.githubusercontent.com/41707639/55346857-1c7c3e00-54bc-11e9-9956-c2b3a6680153.PNG)
+![7](https://user-images.githubusercontent.com/41707639/55346858-1c7c3e00-54bc-11e9-804b-cd62a7e78668.PNG)
+![8](https://user-images.githubusercontent.com/41707639/55346859-1c7c3e00-54bc-11e9-9321-fb036c016e3a.PNG)
+![9](https://user-images.githubusercontent.com/41707639/55346860-1d14d480-54bc-11e9-9f25-1ca3fd769037.PNG)
 ![10](https://user-images.githubusercontent.com/41707639/55346837-1a19e400-54bc-11e9-9250-f91531741266.PNG)
 ![11](https://user-images.githubusercontent.com/41707639/55346838-1a19e400-54bc-11e9-8c43-4c949f6a4672.PNG)
 ![12](https://user-images.githubusercontent.com/41707639/55346839-1a19e400-54bc-11e9-859b-346d50436525.PNG)
@@ -14,12 +23,3 @@ Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmas�
 ![18](https://user-images.githubusercontent.com/41707639/55346848-1b4b1100-54bc-11e9-96fd-f329696acaf2.PNG)
 ![19](https://user-images.githubusercontent.com/41707639/55346849-1b4b1100-54bc-11e9-901d-db0e44d27f76.PNG)
 ![20](https://user-images.githubusercontent.com/41707639/55346850-1be3a780-54bc-11e9-82a2-4715cb1f50fe.PNG)
-![1](https://user-images.githubusercontent.com/41707639/55346851-1be3a780-54bc-11e9-997c-564d233ea90b.PNG)
-![2](https://user-images.githubusercontent.com/41707639/55346853-1be3a780-54bc-11e9-8aae-56d1749a0de6.PNG)
-![3](https://user-images.githubusercontent.com/41707639/55346854-1be3a780-54bc-11e9-962c-07b3a4efe37c.PNG)
-![4](https://user-images.githubusercontent.com/41707639/55346855-1c7c3e00-54bc-11e9-9d97-c0308f9b9071.PNG)
-![5](https://user-images.githubusercontent.com/41707639/55346856-1c7c3e00-54bc-11e9-80fe-69d4339b9f37.PNG)
-![6](https://user-images.githubusercontent.com/41707639/55346857-1c7c3e00-54bc-11e9-9956-c2b3a6680153.PNG)
-![7](https://user-images.githubusercontent.com/41707639/55346858-1c7c3e00-54bc-11e9-804b-cd62a7e78668.PNG)
-![8](https://user-images.githubusercontent.com/41707639/55346859-1c7c3e00-54bc-11e9-9321-fb036c016e3a.PNG)
-![9](https://user-images.githubusercontent.com/41707639/55346860-1d14d480-54bc-11e9-9f25-1ca3fd769037.PNG)
