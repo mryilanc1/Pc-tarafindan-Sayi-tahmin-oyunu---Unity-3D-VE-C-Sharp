@@ -7,7 +7,8 @@ edit: "Oyunyoneticisi"  ismi değitişti
 yeni ismi : "sahneyonetici" 
 
 
-#Oyunun Geçiştirme Süreci 
+
+# Oyunun Geçiştirme Süreci 
 
 ![oyun](https://user-images.githubusercontent.com/41707639/55347266-0fac1a00-54bd-11e9-8e1f-331866ccef5c.PNG)
 ![kazan](https://user-images.githubusercontent.com/41707639/55347281-19ce1880-54bd-11e9-8d2e-c39afd7fc279.PNG)
