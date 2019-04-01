@@ -632,10 +632,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Cikis.cs" />
-    <Compile Include="Assets\Scenes\OyunMekanik.cs" />
-    <Compile Include="Assets\Scenes\Oyunyonetici.cs" />
-    <Compile Include="Assets\Scenes\Turyazim.cs" />
+    <Compile Include="Assets\Kodlar\Cikis.cs" />
+    <Compile Include="Assets\Kodlar\OyunMekanik.cs" />
+    <Compile Include="Assets\Kodlar\Sahneyonetici.cs" />
+    <Compile Include="Assets\Kodlar\Turyazim.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
