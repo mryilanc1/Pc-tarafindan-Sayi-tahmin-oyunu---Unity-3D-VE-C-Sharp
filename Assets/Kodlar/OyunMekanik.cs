@@ -49,7 +49,10 @@ public class OyunMekanik : MonoBehaviour
     public void sonrakitahmin()
     {
         tur++;
-        tahmin = (max + min) / 2;
+        // tahmin = (max + min) / 2;  ( Algoritma değişikliiği )
+
+        tahmin = Random.Range(min, max);
+
         tahminmetin.text = tahmin.ToString();
 
     }
