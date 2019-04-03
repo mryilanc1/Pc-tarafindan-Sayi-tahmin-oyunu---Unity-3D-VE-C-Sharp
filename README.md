@@ -5,7 +5,9 @@ Not:Amatör bir Yazılımcıyım...
 
 # Edit: 
 "Oyunyoneticisi"  ismi değitişti 
+
 yeni ismi : "sahneyonetici" 
+
 Rasgale Tahim eklendi
 
 
