@@ -3,9 +3,12 @@ Unity ile Pc'nin 1 ile 1500 arasında aklımızda tuttuğumuz  sayıyı  bulmas�
 
 Not:Amatör bir Yazılımcıyım...
 
-edit: "Oyunyoneticisi"  ismi değitişti 
+# Edit: 
+"Oyunyoneticisi"  ismi değitişti 
+
 yeni ismi : "sahneyonetici" 
 
+Rasgale Tahim eklendi
 
 
 # Oyunun Geçiştirme Süreci 
@@ -35,3 +38,8 @@ yeni ismi : "sahneyonetici"
 ![18](https://user-images.githubusercontent.com/41707639/55346848-1b4b1100-54bc-11e9-96fd-f329696acaf2.PNG)
 ![19](https://user-images.githubusercontent.com/41707639/55346849-1b4b1100-54bc-11e9-901d-db0e44d27f76.PNG)
 ![20](https://user-images.githubusercontent.com/41707639/55346850-1be3a780-54bc-11e9-82a2-4715cb1f50fe.PNG)
+
+# Eklemeler ve Değişiklikler:
+
+![Random range slayt](https://user-images.githubusercontent.com/41707639/55470626-a89f7a00-5610-11e9-9631-095d0fe53614.PNG)
+
